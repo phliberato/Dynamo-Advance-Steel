@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-	<DYNAMOAPI  Condition=" '$(DYNAMOAPI)' == '' ">C:\Dynamo-Sandbox\2.5.0.7186</DYNAMOAPI>
-    <ADVANCESTEELAPI  Condition=" '$(ADVANCESTEELAPI)' == '' ">C:\Program Files\Autodesk\AutoCAD 2021\ADVS</ADVANCESTEELAPI>
-    <ACADAPI  Condition=" '$(ACADAPI)' == '' ">C:\Program Files\Autodesk\AutoCAD 2021</ACADAPI>
-    <ACADMODELAPI  Condition=" '$(ACADMODELAPI)' == '' ">C:\Program Files\Autodesk\AutoCAD 2021</ACADMODELAPI>
-    <ACADCOREAPI  Condition=" '$(ACADCOREAPI)' == '' ">C:\Program Files\Autodesk\AutoCAD 2021</ACADCOREAPI>
+	<DYNAMOAPI  Condition=" '$(DYNAMOAPI)' == '' ">C:\Engetower\Dynamo2</DYNAMOAPI>
+    <ADVANCESTEELAPI  Condition=" '$(ADVANCESTEELAPI)' == '' ">C:\Engetower\DLLs 2020\Dlls AS 2020</ADVANCESTEELAPI>
+    <ACADAPI  Condition=" '$(ACADAPI)' == '' ">C:\Engetower\DLLs 2020\Dlls CAD 2020</ACADAPI>
+    <ACADMODELAPI  Condition=" '$(ACADMODELAPI)' == '' ">C:\Engetower\DLLs 2020\Dlls CAD 2020</ACADMODELAPI>
+    <ACADCOREAPI  Condition=" '$(ACADCOREAPI)' == '' ">C:\Engetower\DLLs 2020\Dlls CAD 2020</ACADCOREAPI>
   </PropertyGroup>
 </Project>
